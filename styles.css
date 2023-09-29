@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+#outer{
+	width:300px;
+	height:300px;
+	border:1px solid;
+	border-radius:50%;
+	background-color:#ff0000;
+}
+#middle{
+	width:250px;
+	height:250px;
+	border:1px solid;
+	border-radius:50%;
+	background-color:#ffa500
+}
+#inner{
+	width:200px;
+	height:200px;
+	border:1px solid;
+	border-radius:50%;
+	background-color:#ffff00;
+}
+#er{
+	width:150px;
+	height:150px;
+	border:1px solid;
+	border-radius:50%;
+	background-color:#008000;
+}
+#ou{
+	width:100px;
+	height:100px;
+	border:1px solid;
+	border-radius:50%;
+	background-color:#0000ff;
+}
+#oute{
+	width:50px;
+	height:50px;
+	border:1px solid;
+	border-radius:50%;
+	background-color:#800080;
+}
